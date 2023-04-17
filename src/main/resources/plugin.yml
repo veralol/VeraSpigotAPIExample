@@ -1,0 +1,5 @@
+name: VeraExample
+version: 1.0
+main: lol.vera.example.VeraExample
+commands:
+  example:
